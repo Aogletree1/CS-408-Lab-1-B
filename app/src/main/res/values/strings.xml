@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CS 408 Lab 1# B</string>
+
+    <string-array name="Eightball">
+        <item>you get knocked out</item>
+        <item>you met a talking animal</item>
+        <item>a mystery stranger attacks you</item>
+        <item>you are being followed</item>
+        <item>the scent of death is strong where you are</item>
+        <item>the telephone rings</item>
+        <item>try a new story</item>
+        <item>you are arressted on trumped up charges</item>
+        <item>you fell out of a tree, despite not being in a tree</item>
+        <item>you rolled a nat one on your relevant ability check</item>
+        <item>you do not pass go, and do not collect 200 dollars</item>
+        <item>you find a bag with two empty bears, two empty breath meant packs, and two empty five hour energy drinks
+        in the parking lot</item>
+        <item>a rock hits you in the back of the head</item>
+        <item>a black cat crossed your path</item>
+
+
+
+    </string-array>
+</resources>
