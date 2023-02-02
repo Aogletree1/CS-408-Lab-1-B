@@ -34,17 +34,8 @@ public class MainActivity extends AppCompatActivity {
 
             if (tag.equals("helpButton")) {
 
-                Random r = new Random();
-
-                int upperbound = 14;
-                int randInt = r.nextInt(upperbound);
-
-                String temp = "";
-                temp.equals(Eightball [randInt]);
-                binding.response.setText(String.valueOf(temp));
-
-
-
+                int index = (int)(Math.random() * Eightball.length);
+                binding.response.setText(Eightball[index]);
 
             }
 
